@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: EnhancedBattleMode/
+        working-directory: NNekoBattleMode/
         shell: bash
     steps:
       - name: Checkout Repository
@@ -40,7 +40,7 @@ jobs:
         run: dotnet build -c Release --no-restore --nologo -o ./bin/Release
 
       - name: Generate Checksums
-        working-directory: EnhancedBattleMode/bin/Release/EnhancedBattleMode
+        working-directory: NNekoBattleMode/bin/Release/NNekoBattleMode
         run: |
           sha512sum latest.zip >> checksums.sha512
 
@@ -48,8 +48,8 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            EnhancedBattleMode/bin/Release/EnhancedBattleMode/latest.zip
-            EnhancedBattleMode/bin/Release/EnhancedBattleMode/checksums.sha512
+            NNekoBattleMode/bin/Release/NNekoBattleMode/latest.zip
+            NNekoBattleMode/bin/Release/NNekoBattleMode/checksums.sha512
           prerelease: false
           append_body: true
           body_path: .github/release-notices.md

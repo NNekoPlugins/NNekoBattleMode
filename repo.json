@@ -1,21 +1,21 @@
 [
     {
         "Author": "NaughtyNeko",
-        "Name": "Enhanced Battle Mode",
-        "InternalName": "EnhancedBattleMode",
+        "Name": "NNekoBattleMode",
+        "InternalName": "NNekoBattleMode",
         "AssemblyVersion": "0.1",
         "Punchline": "Intelligent /bm replacement.",
         "Description": "Intelligent /bm replacement.",
         "ApplicableVersion": "any",
-        "RepoUrl": "https://github.com/NNekoPlugins/EnhancedBattleMode",
+        "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode",
         "Tags": [ "utility", "other", "conditions", "chat", "commands", "NaughtyNeko", "NNeko" ],
         "DalamudApiLevel": 14,
         "LoadPriority": 69,
-        "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoTriggers/master/NNekoTriggers/images/ttrig.png",
+        "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoBattleMode/master/NNekoBattleMode/Data/NNeko.png",
         "IsHide": "False",
         "IsTestingExclusive": "False",
-        "DownloadLinkInstall": "https://github.com/NNekoPlugins/EnhancedBattleMode/releases/download/v0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NNekoPlugins/EnhancedBattleMode/releases/download/v0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NNekoPlugins/EnhancedBattleMode/releases/download/v0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.1/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.1/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.1/latest.zip"
     }
 ]

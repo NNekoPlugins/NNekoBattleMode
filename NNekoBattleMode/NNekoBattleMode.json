@@ -1,0 +1,17 @@
+{
+  "Author": "NaughtyNeko",
+  "Name": "NNekoBattleMode",
+  "Punchline": "Intelligent management of draw/sheathe actions.",
+  "Description": "Use one command to trigger the Draw and Sheathe emotes when possible, and reset enmity of striking dummies when sheathing.",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "utility",
+    "other",
+    "conditions",
+    "chat",
+    "commands",
+    "QoL",
+    "NaughtyNeko",
+    "NNeko"
+  ]
+}

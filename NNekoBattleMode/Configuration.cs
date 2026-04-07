@@ -1,7 +1,7 @@
 using Dalamud.Configuration;
 using System;
 
-namespace EnhancedBattleMode;
+namespace NNekoBattleMode;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
