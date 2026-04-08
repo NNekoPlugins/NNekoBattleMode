@@ -8,7 +8,7 @@ using FFXIVClientStructs.FFXIV.Client.Game;
 using System;
 using System.Threading.Tasks;
 
-namespace NNekoBattleMode.Services;
+namespace NNekoBattleMode;
 
 public static class LogicRunner
 {
