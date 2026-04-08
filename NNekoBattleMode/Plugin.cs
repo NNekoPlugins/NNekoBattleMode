@@ -93,13 +93,11 @@ public sealed class Plugin : IDalamudPlugin
     }
 
     private async void OnCommand(string command, string args)
-        {
-            var player = ClientState.LocalPlayer;
-            if (player == null)
-                return;
+    {
+        var player = ClientState.LocalPlayer;
+        if (player == null)
+            return;
 
-            await LogicRunner.RunOnce(player);
-        }
+        await LogicRunner.RunOnce(player);
     }
-
 }
