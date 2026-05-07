@@ -3,7 +3,7 @@
         "Author": "NaughtyNeko",
         "Name": "NNeko's Situational Battle Mode",
         "InternalName": "NNekoBattleMode",
-        "AssemblyVersion": "0.0.0.1",
+        "AssemblyVersion": "0.0.0.2",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
         "LoadPriority": 69,
@@ -15,8 +15,8 @@
         "CategoryTags": [ "Utility", "Other" ],
         "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoBattleMode/main/NNekoBattleMode/Data/NNeko.png",
         "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode",
-        "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.1/latest.zip",
-        "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.1/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.1/latest.zip"
+        "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip"
     }
 ]
