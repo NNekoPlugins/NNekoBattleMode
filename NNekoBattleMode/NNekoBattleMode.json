@@ -1,17 +1,17 @@
 {
-  "Author": "NaughtyNeko",
-  "Name": "NNekoBattleMode",
-  "Punchline": "Intelligent management of draw/sheathe actions.",
-  "Description": "Use one command to trigger the Draw and Sheathe emotes when possible, and reset enmity of striking dummies when sheathing.",
-  "ApplicableVersion": "any",
-  "Tags": [
-    "utility",
-    "other",
-    "conditions",
-    "chat",
-    "commands",
-    "QoL",
-    "NaughtyNeko",
-    "NNeko"
-  ]
+    "Author": "NaughtyNeko",
+    "Name": "NNeko's Situational Battle Mode",
+    "InternalName": "NNekoBattleMode",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "LoadPriority": 69,
+    "IsHide": "False",
+    "IsTestingExclusive": "true",
+    "Punchline": "Intelligent management of draw/sheathe actions.",
+    "Description": "Use one command to trigger the Draw and Sheathe emotes when possible, and reset enmity of striking dummies when sheathing.",
+    "Tags": [ "NaughtyNeko", "NNeko", "utility", "other", "conditions", "chat", "commands", "QoL" ],
+    "CategoryTags": [ "Utility", "Other" ],
+    "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoBattleMode/main/NNekoBattleMode/Data/NNeko.png",
+    "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode"
 }

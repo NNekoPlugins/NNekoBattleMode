@@ -13,6 +13,6 @@ public class Configuration : IPluginConfiguration
     // The below exists just to make saving less cumbersome
     public void Save()
     {
-        Plugin.PluginInterface.SavePluginConfig(this);
+        NNekoBattleMode.PluginInterface.SavePluginConfig(this);
     }
 }
