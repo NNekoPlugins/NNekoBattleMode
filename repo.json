@@ -14,7 +14,7 @@
         "Tags": [ "NaughtyNeko", "NNeko", "utility", "other", "conditions", "chat", "commands", "QoL" ],
         "CategoryTags": [ "Utility", "Other" ],
         "IconUrl": "https://raw.githubusercontent.com/NNekoPlugins/NNekoBattleMode/main/NNekoBattleMode/Data/NNeko.png",
-        "RepoUrl": "https://github.com/NNekoPlugins/NNekoBattleMode",
+        "RepoUrl": "",
         "DownloadLinkInstall": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip",
         "DownloadLinkTesting": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip",
         "DownloadLinkUpdate": "https://github.com/NNekoPlugins/NNekoBattleMode/releases/download/v0.0.0.2/latest.zip"
